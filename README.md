@@ -116,4 +116,4 @@ int main() {
 ## 📄 License & Author
 
 - **Author:** [Costin Ghiujan](https://github.com/coxteen)
-- **License:** Released under the [MIT License](LICENSE)
+- **License:** Released under the [MIT License](LICENSE).
